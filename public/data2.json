@@ -1,0 +1,162 @@
+[
+    {
+      "address": {
+        "geolocation": { "lat": "28.6139", "long": "77.2090" },
+        "city": "delhi",
+        "street": "rajpath road",
+        "number": 124,
+        "zipcode": "110001"
+      },
+      "id": 1,
+      "email": "arjun.kumar@gmail.com",
+      "username": "arjunk",
+      "password": "p@ssW0rd1!",
+      "name": { "firstname": "arjun", "lastname": "kumar" },
+      "phone": "91-9876543210",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": { "lat": "19.0760", "long": "72.8777" },
+        "city": "mumbai",
+        "street": "marine drive",
+        "number": 543,
+        "zipcode": "400002"
+      },
+      "id": 2,
+      "email": "deepika.sharma@gmail.com",
+      "username": "deepikas",
+      "password": "Pass@456",
+      "name": { "firstname": "deepika", "lastname": "sharma" },
+      "phone": "91-9876512345",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": { "lat": "13.0827", "long": "80.2707" },
+        "city": "chennai",
+        "street": "anna salai",
+        "number": 32,
+        "zipcode": "600002"
+      },
+      "id": 3,
+      "email": "rahul.nair@gmail.com",
+      "username": "rahuln",
+      "password": "SecureP@ss2",
+      "name": { "firstname": "rahul", "lastname": "nair" },
+      "phone": "91-9876523456",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": { "lat": "22.5726", "long": "88.3639" },
+        "city": "kolkata",
+        "street": "park street",
+        "number": 220,
+        "zipcode": "700016"
+      },
+      "id": 4,
+      "email": "anjali.bose@gmail.com",
+      "username": "anjalib",
+      "password": "Bose$123",
+      "name": { "firstname": "anjali", "lastname": "bose" },
+      "phone": "91-9876534567",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": { "lat": "12.9716", "long": "77.5946" },
+        "city": "bangalore",
+        "street": "mg road",
+        "number": 778,
+        "zipcode": "560001"
+      },
+      "id": 5,
+      "email": "vijay.patel@gmail.com",
+      "username": "vijayp",
+      "password": "Patel#2024",
+      "name": { "firstname": "vijay", "lastname": "patel" },
+      "phone": "91-9876545678",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": { "lat": "23.0225", "long": "72.5714" },
+        "city": "ahmedabad",
+        "street": "ashram road",
+        "number": 650,
+        "zipcode": "380009"
+      },
+      "id": 6,
+      "email": "meena.rathore@gmail.com",
+      "username": "meenat",
+      "password": "Meen@!123",
+      "name": { "firstname": "meena", "lastname": "rathore" },
+      "phone": "91-9876556789",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": { "lat": "26.9124", "long": "75.7873" },
+        "city": "jaipur",
+        "street": "mi road",
+        "number": 44,
+        "zipcode": "302001"
+      },
+      "id": 7,
+      "email": "suresh.khan@gmail.com",
+      "username": "sureshk",
+      "password": "Suresh@456",
+      "name": { "firstname": "suresh", "lastname": "khan" },
+      "phone": "91-9876567890",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": { "lat": "15.3173", "long": "75.7139" },
+        "city": "hubli",
+        "street": "station road",
+        "number": 120,
+        "zipcode": "580020"
+      },
+      "id": 8,
+      "email": "lavanya.desai@gmail.com",
+      "username": "lavanyad",
+      "password": "Lavanya!89",
+      "name": { "firstname": "lavanya", "lastname": "desai" },
+      "phone": "91-9876578901",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": { "lat": "11.0168", "long": "76.9558" },
+        "city": "coimbatore",
+        "street": "gandhipuram road",
+        "number": 315,
+        "zipcode": "641012"
+      },
+      "id": 9,
+      "email": "rohit.iyer@gmail.com",
+      "username": "rohiti",
+      "password": "Rohit@1234",
+      "name": { "firstname": "rohit", "lastname": "iyer" },
+      "phone": "91-9876589012",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": { "lat": "9.9252", "long": "78.1198" },
+        "city": "madurai",
+        "street": "palace road",
+        "number": 890,
+        "zipcode": "625001"
+      },
+      "id": 10,
+      "email": "isha.kapoor@gmail.com",
+      "username": "ishak",
+      "password": "IshaKap#1",
+      "name": { "firstname": "isha", "lastname": "kapoor" },
+      "phone": "91-9876590123",
+      "__v": 0
+    }
+  ]  
